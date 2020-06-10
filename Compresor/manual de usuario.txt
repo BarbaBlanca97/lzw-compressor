@@ -1,0 +1,42 @@
+COMPRESOR LZW
+
+Manual de usuario
+
+Indice:
+	1. Abrir y cerrar el programa
+	2. Uso del programa
+	3. Consideraciones especiales !IMPORTANTE!
+
+1) ABRIR Y CERRAR EL PROGRAMA
+
+	- Para abrir el programa abra el archivo "Compresor.exe" ubicado en la carpeta de instalacion del programa
+	- Para cerrar el  programa haga click sobre la cruz en la esquina superior derecha de la ventana
+
+2) USO DEL PROGRAMA
+
+	- Para añadir un archivo haga click en el boton "Añadir" y seleccione el archivo deseado
+	- El archivo actual se indica sobre la barra de progreso
+
+	- Compresion:
+		- El programa detectara automaticamente el tipo de archivo, para comenzar con la operacion haga click en el boton "Comprimir"
+		- El archivo resultado se guardara en la misma ubicacion que el original
+		- El archivo resultado tendra el mismo nombre que el original pero con extension .lzw
+	- Descompresion:
+		- El programa detectara automaticamente el tipo de archivo (extension .lzw), para comenzar con la operacion haga click en el boton "Descomprimir"
+		- El archivo resultado se guardara en la misma ubicacion que el original
+		- El archivo resultado tendra el mismo nombre que el utilizado para la descompresion pero con la extension original
+
+	- Para pausar la operacion actual haga click en el boton "Pausar", este se habilitara cuando sea pertinente
+	- Para reanudar la operacion actual haga click en el boton "Comprimir/Descomprimir" segun corresponda, este se habilitara cuando sea pertinente
+
+	- Para a abortar la operacion actual haga click en el boton "Abortar"
+
+3) CONSIDERACIONES ESPECIALES !IMPORTANTE!
+	
+	- Evite trabajar con archivos con nombres con caracteres extraños (solo letras y numeros). Podria ocasionar problemas como archivos resultado con nombres inesperados y/o fallos de programa
+	- Evite trabajar con archivos con extensiones compuestas (mas de un punto), por ejemplo .tar.gz. Podria ocasionar problemas como archivos resultado con nombres inesperados y/o fallos de programa
+	- Evite tener archivos con mismo nombre en la carpeta utilizada para las operaciones. Podria ocasionar problemas como archivos resultado con nombres inesperados, fallos de programa y/o perdida de informacion.
+
+	- El programa/programador no se hace responsable por la perdida de informacion, software dañado y/o harware destruido, utilice el programa bajo su propia responsabilidad y cruze los dedos, suerte.
+
+Muchas gracas por utilizar nuestro (mi) producto :) 
